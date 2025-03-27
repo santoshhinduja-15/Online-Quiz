@@ -14,6 +14,7 @@ A simple **MCQ-based quiz app** built with **HTML, CSS, Bootstrap, JavaScript, a
 - **CSS3 & Bootstrap 5** for styling  
 - **JavaScript & jQuery** for functionality  
 
-## 🛠️ How to Run?  
+## How to Run?  
 1. Clone the repository:  
-   git clone https://github.com/santoshhinduja-15/online-quiz.git
+   git clone https://github.com/santoshhinduja-15/Online-Quiz.git
+2. Open **index.html** file in browser
