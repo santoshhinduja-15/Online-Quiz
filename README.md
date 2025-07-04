@@ -16,8 +16,6 @@ This app dynamically loads multiple-choice questions, provides real-time feedbac
 - Bootstrap Icons
 - JavaScript (ES6)
 
-Perfect! Below is the **ready-to-paste section** for your `README.md` file under the **"How to Run Locally"** heading — clean formatting, clear instructions, and suitable for GitHub.
-
 # How to Run Locally
 1. Clone or Download the Repository
 Option A: Clone using Git
